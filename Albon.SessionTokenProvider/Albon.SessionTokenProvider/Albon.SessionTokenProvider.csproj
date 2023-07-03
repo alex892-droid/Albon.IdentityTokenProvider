@@ -4,6 +4,13 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Albon.SessionTokenProvider</Title>
+    <Copyright>MIT</Copyright>
+    <PackageProjectUrl>https://github.com/alex892-droid/Albon.SessionTokenProvider</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alex892-droid/Albon.SessionTokenProvider</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>session; token; provider</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
