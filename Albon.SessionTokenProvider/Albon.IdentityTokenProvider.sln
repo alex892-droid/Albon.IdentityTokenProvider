@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albon.SessionTokenProvider", "Albon.SessionTokenProvider\Albon.SessionTokenProvider.csproj", "{57EA2D81-70AD-4E5E-8F6A-E261C41C3203}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Albon.IdentityTokenProvider", "Albon.SessionTokenProvider\Albon.IdentityTokenProvider.csproj", "{57EA2D81-70AD-4E5E-8F6A-E261C41C3203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
