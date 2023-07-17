@@ -1,7 +1,6 @@
-﻿using Albon.IdentityTokenProvider;
-using TechnicalToolsSharedKernel;
+﻿using TechnicalToolsSharedKernel;
 
-namespace SessionTokenProvider
+namespace Albon.IdentityTokenProvider
 {
     public class IdentityTokenProvider
     {

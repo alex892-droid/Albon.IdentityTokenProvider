@@ -11,6 +11,7 @@
     <RepositoryUrl>https://github.com/alex892-droid/Albon.SessionTokenProvider</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>session; token; provider</PackageTags>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
